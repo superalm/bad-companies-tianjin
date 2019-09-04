@@ -2,6 +2,14 @@
 
 不推荐的企业清单（天津）
 
+# 专辑
+
+[天地伟业](https://github.com/superalm/bad-companies-tianjin/blob/master/tian-di-wei-ye.md)
+
+[神州商龙](https://github.com/superalm/bad-companies-tianjin/blob/master/shang-long.md)
+
+[步履科技](https://github.com/superalm/bad-companies-tianjin/blob/master/bu-lv-ke-ji.md)
+
 ## 南大通用 南开创元（它们可以认为是一家）
 
 - 点评 1
