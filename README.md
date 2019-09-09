@@ -8,6 +8,8 @@
 
 [神州商龙](https://github.com/superalm/bad-companies-tianjin/blob/master/shang-long.md)
 
+[德塔精要](https://github.com/superalm/bad-companies-tianjin/blob/master/deta.md)
+
 [步履科技](https://github.com/superalm/bad-companies-tianjin/blob/master/bu-lv-ke-ji.md)
 
 ## 南大通用 南开创元（它们可以认为是一家）
