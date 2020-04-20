@@ -125,30 +125,6 @@ BI 部门，原先的部门 boss，问我同事，大年腊月二十七问的，
 
 ![picfailed](https://github.com/superalm/bad-companies-tianjin/blob/master/img/ji-li-ke-ji.jpg)
 
-## 卓朗科技
-
-- 点评 1
-
-来源：朋友提供
-
-获得信息时间：2019-04-11
-
-可信级别：供参考
-
-签生死状，完不成任务，降薪，调职，辞退。
-
-![picfailed](https://github.com/superalm/bad-companies-tianjin/blob/master/img/zhuo-lang.jpg)
-
-- 点评 2
-
-来源：群友提供
-
-获得信息时间：2019-02-09
-
-可信级别：供参考
-
-995
-
 ## 云账户
 
 - 点评 1
