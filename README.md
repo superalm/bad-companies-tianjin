@@ -6,6 +6,8 @@
 
 [天地伟业](https://github.com/superalm/bad-companies-tianjin/blob/master/tian-di-wei-ye.md)
 
+[步履科技](https://github.com/superalm/bad-companies-tianjin/blob/master/bu-lv-ke-ji.md)
+
 [美腾科技](https://github.com/superalm/bad-companies-tianjin/blob/master/mei-teng.md)
 
 [神州商龙](https://github.com/superalm/bad-companies-tianjin/blob/master/shang-long.md)
